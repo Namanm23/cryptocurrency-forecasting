@@ -400,7 +400,7 @@ pip install -r requirements.txt
 Building data-driven forecasting systems with deep learning and statistical models.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Namanm23-black?logo=github)](https://github.com/Namanm23)
-```
+---
 
 ## 📄 License
 
