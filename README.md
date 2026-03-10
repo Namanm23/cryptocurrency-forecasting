@@ -394,6 +394,13 @@ pip install -r requirements.txt
 - **ARIMA**: Box & Jenkins (1970) — Time Series Analysis: Forecasting and Control
 
 ---
+## 👨‍💻 Author
+
+**Naman Malhan**  
+Building data-driven forecasting systems with deep learning and statistical models.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Namanm23-black?logo=github)](https://github.com/Namanm23)
+```
 
 ## 📄 License
 
